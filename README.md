@@ -1,7 +1,7 @@
 cookie-clicker
 ==============
 
-This is a copy of the publicly available source of the game cookie clicker by orteil.  
+This is a copy of the publicly available source of the game `Cookie Clicker` (2.0) by orteil.
 
 Here is the actual game:
 http://orteil.dashnet.org/cookieclicker/
